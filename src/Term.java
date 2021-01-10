@@ -1,4 +1,4 @@
-package poly;
+//package poly;
 
 /**
  * This class implements a term of a polynomial.
